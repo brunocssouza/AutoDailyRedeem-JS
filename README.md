@@ -1,9 +1,11 @@
-# Keydrop-DailyFree
+# Auto Daily Redeem
+Made with Javascript and Puppeteer.
 
 ========== NODE PACKAGES INSTRUCTIONS ===============
 1. Install NodeJS
-2. Use the following commands in the terminal:
-npm install
+2. Install all dependencies: npm install
+3. Start by executing FirstTime file, to setup your credentials.
+4. You will execute the Run file for the daily runs.
 
 ========== SETUP INSTRUCTIONS ==========
 1. Edit RUN.BAT file: replace the directory there with your own path to THIS FOLDER.
