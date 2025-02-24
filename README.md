@@ -3,7 +3,7 @@
 ========== NODE PACKAGES INSTRUCTIONS ===============
 1. Install NodeJS
 2. Use the following commands in the terminal:
-npm install AND npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+npm install
 
 ========== SETUP INSTRUCTIONS ==========
 1. Edit RUN.BAT file: replace the directory there with your own path to THIS FOLDER.
